@@ -1,5 +1,5 @@
 # Gameplay demo
-```
+
 [![Watch the Video](https://img.youtube.com/vi/KlmLpVDpVlo/0.jpg)](https://youtu.be/KlmLpVDpVlo)
 
 # Getting started
