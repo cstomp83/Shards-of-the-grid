@@ -28,4 +28,4 @@ Players earn or purchase in-game currency.
 The game features a full leveling system, enabling players to gain experience, improve stats, and unlock class-specific abilities. Persistent data ensures continuity across multiplayer sessions.
 
 🧑‍🤝‍🧑 Online Multiplayer
-Built-in multiplayer allows for seamless co-op gameplay. Players can explore, battle enemies, and share resources in real time through a custom matchmaking and session management system.
+Built-in multiplayer allows for seamless co-op gameplay. Players can explore and battle enemies in real time.
