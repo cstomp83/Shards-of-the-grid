@@ -5,8 +5,10 @@
 
 # Description
 
-🎮 Project Overview: AI-Generated 2D Multiplayer Action Game
+🎮 **Project Overview: AI-Generated 2D Multiplayer Action Game**
+##
 This project is a fully-featured multiplayer 2D action-adventure game that combines procedurally generated exploration, strategic combat, and in-game progression systems. Designed to provide a unique experience with every playthrough, the game uses AI-driven generation to craft dynamic worlds and encounters in real time.
+##
 
 🔧 **Core Features**
 ##
