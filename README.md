@@ -10,16 +10,16 @@ This project is a fully-featured multiplayer 2D action-adventure game that combi
 
 🔧 Core Features
 🌍 AI-Generated Worlds & Encounters
-Every game session takes place in a procedurally generated environment. Using AI algorithms, the game creates new biomes, terrain layouts, and combat scenarios—ensuring each player's journey is unique.
+Every game session takes place in a procedurally generated environment. Using AI the game creates a background image based on the world name, terrain layouts, and combat scenarios ensuring each player's journey is unique.
 
 ⚔️ Dynamic Enemy Combat
-Players face a range of AI-driven enemies with distinct attack patterns, difficulty scaling, and biome-specific behaviors. Combat supports both solo and cooperative play, rewarding teamwork and strategy.
+Players face a range of enemies with distinct attack patterns. Each enemy as its own unique AI description and biome-specific behaviors. Combat supports both solo and cooperative play, rewarding teamwork and strategy.
 
 🛒 Full In-Game Shop System
-A modular in-game store allows players to browse and purchase items such as gear, consumables, and upgrades. The store is updated dynamically based on player progression and inventory.
+A modular in-game store allows players to browse and purchase different weapons. The store is updated dynamically based on player progression and inventory.
 
 💰 In-Game Currency & Purchases
-Players earn or purchase in-game currency to unlock items and enhancements. Currency is integrated across systems, supporting progression and customization.
+Players earn or purchase in-game currency. 
 
 📈 Player Leveling & Progression
 The game features a full leveling system, enabling players to gain experience, improve stats, and unlock class-specific abilities. Persistent data ensures continuity across multiplayer sessions.
